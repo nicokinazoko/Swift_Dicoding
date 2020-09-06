@@ -1,0 +1,2 @@
+//deklarasi biasa
+let 
