@@ -16,4 +16,4 @@ let decimalExponen      =   1.25e2
 let anotherDecimalEx    =   1.25e-2
 
 print(decimalInteger, binaryInteger, octalInteger, hexadecimalInteger, decimalExponen, anotherDecimalEx)
-//output : 18 18 18 18 125.0 0.0125
+//output : 18 18 18 18 125.0 0.0125  
